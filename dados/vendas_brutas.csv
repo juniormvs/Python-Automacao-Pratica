@@ -1,1 +1,8 @@
-
+ID_Pedido,Cliente,Regiao,Valor,Status_Pagamento
+1001,Empresa A,Sudeste,150.00,PAGO
+1002,Empresa B,Sul,25.75,PENDENTE
+1003,Empresa C,Sudeste,,PAGO
+1004,Empresa D,Nordeste,1200.50,PAGO
+1005,Empresa E,Sul,40.00,PENDENTE
+1006,Empresa F,Sudeste,750.00,PAGO
+1007,Empresa G,Sudeste,300.25,PAGO
